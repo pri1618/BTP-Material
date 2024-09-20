@@ -1,4 +1,4 @@
-## Guyer-Krumhansl Equation
+# Guyer-Krumhansl Equation
 
 [1] Phonon hydrodynamics and its applications in nanoscale heat transport. *-Guo et al*
 
